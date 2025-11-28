@@ -1,3 +1,5 @@
+package processamento;
+
 public class TesteProcessamento {
     public static void main(String[] args) {
         int x;
