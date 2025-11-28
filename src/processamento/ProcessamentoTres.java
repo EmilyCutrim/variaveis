@@ -1,3 +1,5 @@
+package processamento;
+
 public class ProcessamentoTres {
     public static void main(String[] args) {
         int a, b;
