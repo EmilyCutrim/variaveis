@@ -1,3 +1,5 @@
+package processamento;
+
 import java.util.Locale;
 
 public class ExercicioVariaveis {
